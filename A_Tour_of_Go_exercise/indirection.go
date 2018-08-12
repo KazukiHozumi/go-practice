@@ -23,7 +23,7 @@ func main() {
 
 	p := &Vertex{4, 3}
 	p.Scala(3)
-	ScalaFunc(p, 8)
+	ScalaFunc(p, 10)
 
 	fmt.Println(v, p)
 }
